@@ -11,7 +11,7 @@ public class Bank {
 		in=bal*2/100;//interest of 2%
 		ti=in*12;//total interest
 		tb=bal+ti;
-		System.out.println("interest was "+ti+"total balance is :"+tb);
+		System.out.println("interest was "+ti+"total balance is given :"+tb);
 	}
 
 }
